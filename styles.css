@@ -37,19 +37,19 @@ nav :hover {
     color: white;
 }
 
-.imagen1 {
+.contenedor__imagen1 {
     position: absolute;
     margin-left: 32rem;
     margin-top: 8rem;
 }
 
-.imagen2 {
+.contenedor__imagen2 {
     position: absolute;
     margin-left: 32rem;
     margin-bottom: 4rem;
 }
 
-.imagen3 {
+.contenedor__imagen3 {
     position: absolute;
     margin-left: 32rem;
     margin-bottom: 4rem;
